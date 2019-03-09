@@ -1,0 +1,96 @@
+.background-image {
+  width: 100%;
+  height: 100%;
+}
+
+.social {
+    position:fixed;
+    cursor: pointer;
+    font-size:24px;
+    color:darkgray;
+    z-index:1003;
+    top: 4%;
+    left:5px;
+}
+.social:hover {
+    color: darkblue;
+    text-decoration: none;
+}
+
+/*obesity legend*/
+.legend1 {
+    line-height: 16px;
+    width: 170px;
+    color: #333333;
+    padding: 6px 8px;
+    background: white;
+    background: rgba(255,255,255,0.5);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.legend1 i {
+    width: 16px;
+    height: 16px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.9;
+}
+
+.legend1 img {
+    width: 16px;
+    height: 16px;
+    margin-right: 3px;
+    float: left;
+}
+
+.legend1 p {
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;
+}
+
+.legend1 b {
+  font-size: 16px;
+  float: center;
+}
+
+/*exercise legend*/
+.legend2 {
+    line-height: 16px;
+    width: 170px;
+    color: #333333;
+    padding: 6px 8px;
+    background: white;
+    background: rgba(255,255,255,0.5);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.legend2 i {
+    width: 16px;
+    height: 16px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.9;
+}
+
+.legend2 img {
+    width: 16px;
+    height: 16px;
+    margin-right: 3px;
+    float: left;
+}
+
+.legend2 p {
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;
+}
+
+.legend2 b {
+  font-size: 16px;
+  float: center;
+}
