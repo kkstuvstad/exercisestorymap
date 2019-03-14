@@ -1,0 +1,376 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "GYMID": 0, "NAME": "ANYTIME FITNESS", "PLACE_TYPE": "GYM", "HOURS": "24 HOURS", "PERSONAL_TRAINER": "Y", "ADDRESS": "955 NW KINGS BLVD, CORVALLIS, OR 97330", "CLASSES": "Y", "SPORTS": "N" }, "geometry": { "type": "Point", "coordinates": [-123.274459, 44.576847] } },
+{ "type": "Feature", "properties": { "GYMID": 1, "NAME": "DIXON RECREATION CENTER", "PLACE_TYPE": "GYM", "HOURS": "6AM-11PM", "PERSONAL_TRAINER": "Y", "ADDRESS": "425 SW 26TH ST, CORVALLIS, OR 97331", "CLASSES": "Y", "SPORTS": "Y"}, "geometry": { "type": "Point", "coordinates": [-123.278641, 44.563173] } },
+{ "type": "Feature", "properties": { "GYMID": 2, "NAME": "SAMFIT", "PLACE_TYPE": "GYM", "HOURS": "24 HOURS", "PERSONAL_TRAINER": "Y", "ADDRESS": "777 NW 9TH ST SUITE 310, CORVALLIS, OR 97330", "CLASSES": "Y", "SPORTS": "N"}, "geometry": { "type": "Point", "coordinates": [-123.264163, 44.571400] } },
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 3,
+    "NAME": "BARRE3",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "6AM-8PM",
+    "PERSONAL_TRAINER": "N",
+    "ADDRESS": "118 NW JACKSON AVE, CORVALLIS, OR 97330",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.258633, 44.564778]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 4,
+    "NAME": "CROSSFIT TRAIN",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "5AM-6:30PM",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "1780 SW 3RD ST #110, CORVALLIS, OR 97333",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.266897, 44.547940]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 5,
+    "NAME": "IRON BEAVER WEIGHTLIFTING",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "6/7AM-10AM, 3:30/4:30-7:30PM",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "1780 SW 3RD ST, CORVALLIS, OR 97333",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.266462, 44.548210]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 6,
+    "NAME": "DOWNING's GYM",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "5AM-11PM",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "1820 SW 3RD ST, CORVALLIS, OR 97333",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.266398, 44.547036]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 7,
+    "NAME": "CROSSFIT AT THE SHOP",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "5:30AM-7:30PM",
+    "PERSONAL_TRAINER": "N",
+    "ADDRESS": "1838 NW 9TH ST #113, CORVALLIS, OR 97330",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.259550, 44.585947]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 8,
+    "NAME": "ORANGETHEORY FITNESS",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "5AM-7PM",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "1838 NW 9th ST SUITE 112, CORVALLIS, OR 97330",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.259358, 44.586047]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 9,
+    "NAME": "SNAP FITNESS (CIRCLE)",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "10AM-4/7PM",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "948 NW CIRCLE BLVD, CORVALLIS, OR 97330",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.258993, 44.587912]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 10,
+    "NAME": "SNAP FITNESS (PHILOMATH)",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "10/11AM-4/8PM",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "5246 SW PHILOMATH BLVD, CORVALLIS, OR 97333",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.307831, 44.550608]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 11,
+    "NAME": "TIMBERHILL ATHLETIC CLUB",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "5AM-11PM",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "2855 NW 29TH ST, CORVALLIS, OR 97330",
+    "CLASSES": "Y",
+    "SPORTS": "Y"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.286340, 44.595821]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 12,
+    "NAME": "BURN BOOT CAMP CORVALLIS",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "5AM-11AM, 4PM-7:30PM",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "2479 NW KINGS BLVD, CORVALLIS, OR 97330",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.272127, 44.592535]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 13,
+    "NAME": "HAMMERHEART STRENGTH & CONDITIONING",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "6:30AM-10AM, 5:30PM-8PM",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "2323 NW 9TH ST, CORVALLIS, OR 97330",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.252651, 44.591742]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 14,
+    "NAME": "PNW GST",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "N/A",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "33852 SE EASTGATE CIR, CORVALLIS, OR 97333",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.225554, 44.563049]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 15,
+    "NAME": "BIKRAM'S YOGA COLLEGE OF INDIA",
+    "PLACE_TYPE": "YOGA/PILATES",
+    "HOURS": "5:30AM-6:30PM",
+    "PERSONAL_TRAINER": "N",
+    "ADDRESS": "1750 SW 3RD ST B, CORVALLIS, OR 97333",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.265941, 44.548496]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 16,
+    "NAME": "PRECISION MARTIAL ARTS",
+    "PLACE_TYPE": "MARTIAL ARTS",
+    "HOURS": "11AM-8:30/9PM",
+    "PERSONAL_TRAINER": "N",
+    "ADDRESS": "1750 SW 3RD ST SUITE E, CORVALLIS, OR 97330",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.266081, 44.548387]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 17,
+    "NAME": "FORCE OF ONE MARTIAL ARTS",
+    "PLACE_TYPE": "MARTIAL ARTS",
+    "HOURS": "4:30PM-8:30PM (TU & THU)",
+    "PERSONAL_TRAINER": "N",
+    "ADDRESS": "2680 SW 3RD ST, CORVALLIS, OR 97333",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.266966, 44.539661]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 18,
+    "NAME": "DOWNTOWN PILATES",
+    "PLACE_TYPE": "YOGA/PILATES",
+    "HOURS": "10AM-3PM",
+    "PERSONAL_TRAINER": "N/A",
+    "ADDRESS": "552 SW 3RD ST, CORVALLIS, OR 97333",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.263680, 44.559830]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 19,
+    "NAME": "STUDIO CLOUD 9",
+    "PLACE_TYPE": "YOGA/PILATES",
+    "HOURS": "10AM-3PM",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "165 SW WASHINGTON AVE, CORVALLIS, OR 97333",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.261354, 44.560122]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 20,
+    "NAME": "LIVE WELL STUDIO",
+    "PLACE_TYPE": "YOGA/PILATES",
+    "HOURS": "9AM-1/6PM",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "971 NW SPRUCE AVE #101, CORVALLIS, OR 97330",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.260475, 44.587715]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 21,
+    "NAME": "CORVALLIS FIT BODY BOOT CAMP",
+    "PLACE_TYPE": "GYM",
+    "HOURS": "5:30AM-9AM(M-F), 5-7:30PM(M, TU, & THU)",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "700 NE CIRCLE BLVD SUITE 104, CORVALLIS, OR 97330",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.249861, 44.588547]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 22,
+    "NAME": "YOGA CENTER OF CORVALLIS",
+    "PLACE_TYPE": "YOGA/PILATES",
+    "HOURS": "NOT LISTED, MAY VARY",
+    "PERSONAL_TRAINER": "N",
+    "ADDRESS": "4700 111 NW 2ND ST, CORVALLIS, OR 97330",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.259379, 44.564281]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 23,
+    "NAME": "BODY BALANCE PILATES STUDIO",
+    "PLACE_TYPE": "YOGA/PILATES",
+    "HOURS": "NOT LISTED, MAY VARY",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "4794 460 SW MADISON AVE SUITE 12, CORVALLIS, OR 97333",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.263224, 44.563627]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 24,
+    "NAME": "YOGA WITH LORI GHOLSON",
+    "PLACE_TYPE": "YOGA/PILATES",
+    "HOURS": "8AM-9:30AM, 10AM-11:30AM(M), 11:30AM-1PM(W)",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "311 NW 6TH ST, CORVALLIS, OR 97330",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.262889, 44.567327]
+  }
+},
+{ "type": "Feature",
+  "properties": {
+    "GYMID": 25,
+    "NAME": "WILLAMETTE VALLEY POWER YOGA CORVALLIS",
+    "PLACE_TYPE": "YOGA/PILATES",
+    "HOURS": "5:30AM-6:30/8PM(M, W, F), 8AM-6PM(TU, THU)",
+    "PERSONAL_TRAINER": "Y",
+    "ADDRESS": "305 SW C AVE, CORVALLIS, OR 97333",
+    "CLASSES": "Y",
+    "SPORTS": "N"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-123.264557, 44.557757]
+  }
+}
+]
+}
