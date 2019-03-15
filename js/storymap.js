@@ -75,7 +75,7 @@ var layers = {
   },
   layer3: {
     layer: L.geoJson.ajax("assets/gyms.geojson", {
-      attribution: 'Locations gathered from Google Maps | Base Map &copy; CartoDB | Map created by Kristoffer Stuvstad',
+      attribution: 'Locations gathered from Google Maps | Story Map created by Kristoffer Stuvstad',
       //click for popup feature
       onEachFeature: function(feature, layer) {
         layer.bindPopup(feature.properties.NAME);
@@ -94,7 +94,7 @@ var layers = {
   layer4: {
     layer: L.tileLayer('https://tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
 	     maxZoom: 18,
-	     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+	     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors | US States &copy; Mike Bostock, D3 | Story Map created by Kristoffer Stuvstad'
     }),
   },
   layer5: {
