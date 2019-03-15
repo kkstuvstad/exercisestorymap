@@ -16,7 +16,7 @@ Like with obesity rates, exercise rates by state also vary. Western, northeaster
 
 ## Gyms in Corvallis
 
-In order to encourage others to participate in physical exercise, one step that can help solve this issue is revealing locations of any nearby gyms. In addition, knowing what amenities are offered and what membership charges are included helps give people more options rather than settling with one option that they may not be the best choice for them. Whether someone exercises or not, each person is looking for something different in terms of physical activity, such as lifting heavy weights, yoga, or even playing sports. Displayed here is a map of all gyms in the Corvallis area, which all came up on Google Maps. By clicking on each point, the name of the gym comes up, and includes membership prices and amenities offered. Having all of the general information about this on one map can help people decide which gym they will want to attend the most, which may motivate them to be more active in exercising.
+In order to encourage others to participate in physical exercise, one step that can help solve this issue is revealing locations of any nearby gyms. In addition, knowing what amenities are offered and what membership charges are included helps give people more options rather than settling with one option that they may not be the best choice for them. Whether someone exercises or not, each person is looking for something different in terms of physical activity, such as lifting heavy weights, yoga, or even playing sports. Displayed here is a map of all gyms in the Corvallis area, which all came up on Google Maps. By clicking on each point, the name of the gym comes up, and includes membership prices and amenities offered. Having all of the general information about this on one map can help people decide which gym they will want to attend the most, which may motivate them to be more active in exercising. All of these locations have at least a three star rating on Google Maps.
 
 ## Concluding Remarks
 
@@ -25,5 +25,8 @@ While knowing these locations can make it easier for people to exercise, it is n
 Sources:
 * CBS News, "States with the highest and lowest exercise rates", June 28, 2018, https://www.cbsnews.com/news/states-with-the-highest-and-lowest-exercise-rates/
 * The State of Obesity, "Adult Obesity in the United States", Updated 2018, https://stateofobesity.org/adult-obesity/
+* US States Data Source: Created by Mike Bostock, https://d3js.org/
+* Running Man Image URL: https://www.gannett-cdn.com/-mm-/14d38e3329c6f1f889b4c48cfb975ddc97bd20bb/c=0-0-3495-1975/local/-/media/2018/06/28/USATODAY/USATODAY/636657854872922413-GettyImages-862317986.jpg?width=3200&height=1680&fit=crop
+* Basemap: OpenStreetMap Black and White, https://leaflet-extras.github.io/leaflet-providers/preview/#filter=OpenStreetMap.BlackAndWhite
 * All gym locations in Corvallis, Oregon acquired on Google Maps
 * Project based on Storymap.js created by Bo Zhao of Oregon State University
