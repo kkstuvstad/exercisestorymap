@@ -23,7 +23,7 @@ In order to encourage others to participate in physical exercise, one step that 
 While knowing these locations can make it easier for people to exercise, it is not the final solution. Being physically active and healthy is a personal choice. People can choose to be physically active and have a healthy diet or to be lazy and continue to eat food that is destructive to their bodies. Despite this, providing resources and directing people to locations that can help start and maintain healthy lifestyles is very capable of increasing low exercise rates and decreasing high obesity rates within our country. This is an example of how this can be made possible by the use of web maps.
             
 Sources:
-* CBS News, "States with the highest and lowest exercise rates", June 28, 2018, https://www.cbsnews.com/news/states-with-the-highest-and-lowest-exercise-rates/
+* CBS News, "States with the highest and lowest exercise rates", published June 28, 2018, https://www.cbsnews.com/news/states-with-the-highest-and-lowest-exercise-rates/
 * The State of Obesity, "Adult Obesity in the United States", Updated 2018, https://stateofobesity.org/adult-obesity/
 * US States Data Source: Created by Mike Bostock, https://d3js.org/
 * Running Man Image URL: https://www.gannett-cdn.com/-mm-/14d38e3329c6f1f889b4c48cfb975ddc97bd20bb/c=0-0-3495-1975/local/-/media/2018/06/28/USATODAY/USATODAY/636657854872922413-GettyImages-862317986.jpg?width=3200&height=1680&fit=crop
